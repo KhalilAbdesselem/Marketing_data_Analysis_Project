@@ -13,7 +13,8 @@ Data Collection:
 
 Extracts data from the top 100 channels in the USA, Canada, Australia, and the UK.
 Focuses on trends and channel metrics in these markets.
-Key Metrics Analysis:
+
+Example of Key Metrics Analysis:
 
 Engagement rates.
 Video length.
@@ -48,6 +49,3 @@ Competitive Edge:
 Stay ahead by leveraging trend insights and adapting strategies effectively.
 Future Scope
 This project is an ongoing effort to unlock the full potential of data-driven YouTube marketing. Stay tuned for further updates and insights!
-
-Author
-Khalil Abdesslem
